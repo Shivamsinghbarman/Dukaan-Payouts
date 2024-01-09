@@ -9,8 +9,9 @@ Design link: [Figma](https://www.figma.com/file/bEYvZixY37eFbwT3fwzEyV/Payouts?t
 
 ### Contact Information
 
--**Email:** ssinghh0011@gmail.com
--**Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
+ **Email:** ssinghh0011@gmail.com
+ 
+ **Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
 
 
 ## SnapShots
