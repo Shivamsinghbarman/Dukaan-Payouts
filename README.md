@@ -1,7 +1,3 @@
-## Contact Information
-
-**Email:** ssinghh0011@gmail.com
-**Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
 
 I have created this project as an assignment for [Dukaan.io](https://dukaan.io/).
 
@@ -9,6 +5,10 @@ Design link: https://www.figma.com/file/bEYvZixY37eFbwT3fwzEyV/Payouts?type=desi
 
 ### [Deployement Link](https://main--inspiring-pithivier-0f4619.netlify.app)
 
+## Contact Information
+
+-**Email:** ssinghh0011@gmail.com
+-**Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
 
 
 ## SnapShots
