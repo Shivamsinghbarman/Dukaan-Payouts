@@ -5,13 +5,13 @@ This project is deployed on Netlify.
 
 Design link: [Figma](https://www.figma.com/file/bEYvZixY37eFbwT3fwzEyV/Payouts?type=design&node-id=39203-197487&mode=design)
 
-### [Deployement Link](https://main--inspiring-pithivier-0f4619.netlify.app)
+### [Deployement Link](https://astonishing-chebakia-788210.netlify.app)
 
 ### Contact Information
 
  **Email:** ssinghh0011@gmail.com
  
- **Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
+ **Live Link:** [payouts-dukaan at Netlify](https://astonishing-chebakia-788210.netlify.app)
 
 
 ## SnapShots
