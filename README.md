@@ -1,7 +1,7 @@
 ## Contact Information
 
-- **Email:** ssinghh0011@gmail.com
-- **Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
+**Email:** ssinghh0011@gmail.com
+**Live Link:** [payouts-dukaan at Netlify](https://main--inspiring-pithivier-0f4619.netlify.app)
 
 I have created this project as an assignment for [Dukaan.io](https://dukaan.io/).
 
